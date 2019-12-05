@@ -36,5 +36,5 @@ if ver6>=18:
 	input ("press enter to exit")
 	os.system("pause")
 else:
-	print("you cannot use this progrram")
+	print("you cannot use this tool")
 	os.system("pause")
