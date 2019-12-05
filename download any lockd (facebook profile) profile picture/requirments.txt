@@ -1,0 +1,9 @@
+locked profile picture download tool for python...
+
+
+REQUIRMENTS
+
+
+*Windows/Linux/Mac
+*Python3
+*Google chrome
